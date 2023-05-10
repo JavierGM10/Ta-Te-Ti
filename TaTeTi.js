@@ -1,4 +1,4 @@
-var mensaje = "Javier García Martín / 1DAM / Ta Te Ti";
+var mensaje = "Javier García Martín / 1DAM / Pagina de personajes de League of Legends";
 alert(mensaje);
 
 let Player = 'X';
